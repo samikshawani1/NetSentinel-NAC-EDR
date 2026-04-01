@@ -1,0 +1,8 @@
+scapy
+requests
+win10toast
+mac-vendor-lookup
+streamlit
+pandas
+boto3
+pytz
